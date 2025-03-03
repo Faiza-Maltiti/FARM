@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    padding: 0%;
+    font-family: arial;
+}
+table,th,td{ 
+    width: 50px;
+    margin:auto;
+    text-align: center;
+    font-size:40;
+    border:2px solid black;
+    padding: 2px;
+    border-collapse:collapse;
+}
